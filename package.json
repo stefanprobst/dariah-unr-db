@@ -1,0 +1,10 @@
+{
+	"name": "@dariah-eric/dariah-unr-db",
+	"private": true,
+	"scripts": {
+		"db": "prisma studio"
+	},
+	"dependencies": {
+		"prisma": "^5.11.0"
+	}
+}
